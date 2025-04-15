@@ -1,6 +1,6 @@
 
 {
-  "name": "BWM-XMD-QUANTUM",
+  "name": "Illı HARON Illı",
   "description": "Best WhatsApp bot developed by Ibrahim Adams",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://files.catbox.moe/2kcb4s.jpeg",
@@ -30,8 +30,8 @@
     },
     "AUTO_DOWNLOAD_STATUS": {
       "description": "Status will be sent to your inbox automatically (type yes to activate or no to deactivate)",
-      "value": "no",
-      "required": false
+      "value": "yes",
+      "required": true
     },
     "AUTO_READ": {
       "description": "Messages will be marked as read automatically (type yes to activate or no to deactivate)",
@@ -40,7 +40,7 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BWM-XMD",
+      "value": "Illı HARON Illı",
       "required": false
     },
     "BOT_IMAGE": {
@@ -65,12 +65,12 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "254794019519",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "💚,🚀,🌎,✅",
+      "value": "♻️,🍒,💥,🩷,🪽,🥹,🫗",
       "required": false 
     },
     "AUTO_REACT": {
@@ -85,7 +85,7 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "Illı HARON Illı",
       "required": false
     },
     "SESSION_ID": {
